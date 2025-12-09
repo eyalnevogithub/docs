@@ -48,8 +48,11 @@
         ]
       },
       {
+        "tab": "Swagger",
+        "openapi": "https://api.epaytools.com/swagger/1.0/swagger.json"
+      },
+      {
         "tab": "API reference",
-        "openapi": "https://api.epaytools.com/swagger/1.0/swagger.json",
         "groups": [
           {
             "group": "API documentation",
